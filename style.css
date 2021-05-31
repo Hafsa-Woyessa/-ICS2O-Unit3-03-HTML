@@ -1,0 +1,29 @@
+.container {
+  border: 3px solid green;
+  width: 50%;
+  top: 300px;
+  left: 200px;
+  position: static;
+}
+
+.header {
+  text-align: center;
+  color: dodgerblue;
+}
+
+.iced coffe {
+  width: 5%;
+  display: block;
+  margin: auto;
+}
+
+.cinnamon rolls {
+  max-width: 500%; 
+  float: left;
+  padding: 3px;
+}
+ 
+.message {
+  padding: 3px;
+  margin: 3px;
+}
